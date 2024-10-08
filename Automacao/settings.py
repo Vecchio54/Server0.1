@@ -83,7 +83,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'db.automacao',
-        'USER': 'master',
+        'USER': 'root',
         'PASSWORD': 'V3cc#!o55#',
         'HOST': 'localhost',
         'PORT': '3306',
